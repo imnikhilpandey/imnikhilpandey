@@ -1,4 +1,14 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;C+Programmer+%F0%9F%92%BB;AI+%26+Tech+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/imnikhilpandey">
+    <img src="https://img.shields.io/github/followers/imnikhilpandey?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=imnikhilpandey&style=for-the-badge&color=blue" />
+</p>-
+   # 💫 About Me:
 💻 Developer | 🐍 Python & C | 🌐 Web Development | 🤖 AI Enthusiast |🚀 Turning ideas into working projects
 
 

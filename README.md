@@ -16,9 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=imnikhilpandey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=imnikhilpandey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"If debugging is the process of removing software bugs, then programming must be the process of putting them in." — Edsger W. Dijkstra

@@ -8,7 +8,9 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=imnikhilpandey&style=for-the-badge&color=blue" />
 </p>
-# 💫 About Me:
+
+
+## 💫 About Me:
 💻 Developer | 🐍 Python & C | 🌐 Web Development | 🤖 AI Enthusiast |🚀 Turning ideas into working projects
 
 
